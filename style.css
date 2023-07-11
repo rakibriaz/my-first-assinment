@@ -74,7 +74,7 @@
 
 .display-contain{
     color: rgba(39, 39, 39, 0.60);
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 200;
     line-height: 30px;
     text-align: center;
@@ -161,7 +161,7 @@
     width: 70%;
 }
 
-.discount-section{
+.discount-section, .instagram{
     margin-top: 200px;
 }
 #button{
@@ -173,4 +173,19 @@
     height: 300px;
     margin-right: 30px;
     padding: 10px;
+}
+
+.main-photo{
+    margin-top: 30px;
+    display: flex;
+    width: 80%;
+    align-items: center;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.insta-img{
+    width: 250px;
+    height: 280px;
+    padding-top: 20px;
 }
