@@ -233,3 +233,39 @@ input{
     border: 1px solid gray;
     margin-top: 40px;
 }
+
+.footer{
+    border: 1px solid gray;
+    background: #111010;
+    text-align: center;
+    height: 300px;
+    margin: auto;
+}
+
+.footer-contain{
+    margin-top: 100px;
+}
+
+.last-heading{
+    color: #E55473;
+    font-size: 38px;;
+    font-weight: 600;
+}
+
+.last-contain{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    padding: 5px;
+    margin-top: 8px;
+}
+
+.small{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 12px;;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 15px;
+    padding: 15px;
+}
